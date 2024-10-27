@@ -189,3 +189,10 @@ body, html {
     margin: 30px auto;
     width: 300px;
 }
+
+h3 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #2a75bb;
+    margin-bottom: 0.5em;
+}
